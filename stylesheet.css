@@ -1,10 +1,14 @@
 @charset "utf-8";
 /* CSS Document */
 
-
+*{
+    margin: 0;
+    padding: 0;
+    
+}
 #storbox{
 	position: absolute;
- 	height: 98%;
+ 	height: 100%;
     width: 90%;
   	margin-left: 5%;
 	
